@@ -1,1 +1,1 @@
-Projects and homework for Course Multivariate_Statistics
+Projects and homework for Course Multivariate_Statistics (Author: Wenjie Lan)
